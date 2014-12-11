@@ -1,1 +1,3 @@
 The fix is performed!
+
+Some additional changes are made.
